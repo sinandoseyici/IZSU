@@ -2,14 +2,11 @@
 
 İzmir-Su faturasının tüm istatistiksel veriler ile hesaplanması
 
-..matched?
 
 Örnek fatura:
-
 ![Fatura](https://user-images.githubusercontent.com/57726183/154376156-e9a9b984-cc39-47ca-8a56-d67f58f39969.jpeg)
 
 ve örnek program çıktısı:
-
 ![image](https://user-images.githubusercontent.com/57726183/154376357-3caddcf8-de3a-4775-ba4b-fea0a1f1aa59.png)
 
  Matched!
